@@ -1,5 +1,5 @@
 <?php
-$title = "Error";
+$title = "Error 404";
 include PATH_template."header.php";
 ?>
 

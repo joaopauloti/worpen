@@ -1,5 +1,5 @@
 <?php
-# Worpen 1.0 - Platform open source
+# Worpen 1.0 - Open source platform for web development.
 # https://github.com/worpen
 # License MIT
 

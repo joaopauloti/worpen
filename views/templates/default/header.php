@@ -16,13 +16,12 @@
     <!-- <meta name="keywords" content=""> -->
     <!-- <meta name="apple-mobile-web-app-capable" content="yes"> -->
     <!-- <meta name="apple-mobile-web-app-status-bar-style" content="black"> -->
-    <!-- <meta name="apple-mobile-web-app-title" content="Anie"> -->
+    <!-- <meta name="apple-mobile-web-app-title" content=""> -->
     <!-- <meta name="msapplication-TileImage" content="<?= PATH_template ?>img/icon.png"> -->
     <!-- <meta name="msapplication-TileColor" content=""> -->
-    <!-- <meta property="og:title" content="Anie"> -->
+    <!-- <meta property="og:title" content=""> -->
     <!--<meta property="og:image" content="<?= PATH_template ?>img/social.png">-->
     <!-- <meta name="twitter:image" content="<?= PATH_template ?>img/social.png"> -->
-    <!-- <meta property="og:locale" content="pt_BR"> -->
     <!-- <meta property="og:type" content="website"> -->
     <!-- <meta property="fb:admins" content=""> -->
     <!-- <link rel="manifest" href="manifest.json"> -->
@@ -47,8 +46,8 @@
         <a href="index.php"><img src="<?= PATH_template ?>img/logo.svg" class="logo"></a>
       </div>
       <div class="col-sm-9 text-right">
-        <a href="?lang=en" class="btn">en</a>
-        <a href="?lang=pt-br" class="btn">pt-br</a>
+        <a href="?lang=en" class="btn">EN</a>
+        <a href="?lang=pt-br" class="btn">PT-BR</a>
       </div>
     </div>
   </header>
