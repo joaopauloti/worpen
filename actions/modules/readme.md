@@ -1,0 +1,1 @@
+When you copy the module to the root directory, the folders are automatically distributed.

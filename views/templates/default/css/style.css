@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+.area {
+  width: 95%;
+  margin: 0 auto;
+  clear: both;
+  overflow: none;
+  position: relative;
+  max-width: 1180px;
+}
+
+.section {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.bg-black {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* --- FORMATTING --- */
+
+header {
+  padding: 1em 0;
+}
+
+.logo {
+  height: 2.8em;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: #ffffff;
+}
+
+footer a:hover {
+  color: red !important;
+}
